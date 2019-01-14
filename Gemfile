@@ -1,1 +1,1 @@
-gem 'fake_project_dependency', path: '/Users/nathan.bourke/workspace/fake-project/fake_project_dependency'
+gem 'fake_project_dependency', git: 'git@github.com:nathanbourke/fake_project_dependency.git', branch: 'feature_branch1'
