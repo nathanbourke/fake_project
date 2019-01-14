@@ -1,0 +1,16 @@
+PATH
+  remote: ../fake_project_dependency
+  specs:
+    fake_project_dependency (0.0.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fake_project_dependency!
+
+BUNDLED WITH
+   1.17.2
