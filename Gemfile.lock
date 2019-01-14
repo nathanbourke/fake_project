@@ -1,5 +1,6 @@
-PATH
-  remote: ../fake_project_dependency
+GIT
+  remote: git@github.com:nathanbourke/fake_project_dependency.git
+  revision: ccadb4156ddcdfd3fcaa42088bdb0a01c73feb8d
   specs:
     fake_project_dependency (0.0.0)
 
