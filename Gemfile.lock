@@ -1,6 +1,7 @@
 GIT
   remote: git@github.com:nathanbourke/fake_project_dependency.git
-  revision: ccadb4156ddcdfd3fcaa42088bdb0a01c73feb8d
+  revision: 3df27b953fb52aec58a4d5581393857666ec60ff
+  branch: adi_code_changes
   specs:
     fake_project_dependency (0.0.0)
 
@@ -14,4 +15,4 @@ DEPENDENCIES
   fake_project_dependency!
 
 BUNDLED WITH
-   1.17.2
+   1.17.3
