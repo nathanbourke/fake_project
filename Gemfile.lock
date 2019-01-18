@@ -1,6 +1,7 @@
 GIT
   remote: git@github.com:nathanbourke/fake_project_dependency.git
-  revision: ccadb4156ddcdfd3fcaa42088bdb0a01c73feb8d
+  revision: 442830e4cb1d3255744c93548e4e03fa79fa0f78
+  branch: nb_code_changes
   specs:
     fake_project_dependency (0.0.0)
 
