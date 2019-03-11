@@ -5,3 +5,4 @@ puts FakeProjectDependency.hello
 puts FakeProjectDependency.a_wild_method_appeared
 puts FakeProjectDependency.nathans_method
 puts FakeProjectDependency.test_method
+puts FakeProjectDependency.mac_method
